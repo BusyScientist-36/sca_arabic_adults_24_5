@@ -1,6 +1,6 @@
 # sca_arabic_adults_24_5
 
-This repository contains my resources for the Arabic for Adults Course by Source Code Academia, particularly for the 2024-2025 session. As I progress through the course, the Anki Deck will be updated with new flashcards and more material might get uploaded.
+This repository contains my resources for the Arabic for Adults Course by Source Code Academia for the 2024-2025 session. As I progress through the course, the Anki Deck will be updated with new flashcards and more material might get uploaded.
 
 # Videos
 
