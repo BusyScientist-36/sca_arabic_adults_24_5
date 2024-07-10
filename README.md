@@ -6,7 +6,12 @@ This repository contains my resources for the Arabic for Adults Course by Source
 
 The video archive of the online lectures is linked below:
 
-YouTube:https://www.youtube.com/playlist?list=PLs3DT4U9Cq0MhzkaIUtDl9-wN9rGSyDbg
+Playlist 1:
+YouTube: https://www.youtube.com/playlist?list=PLs3DT4U9Cq0MhzkaIUtDl9-wN9rGSyDbg
+Oddysee: [coming_soon]
+
+Playlist 2:
+YouTube: https://www.youtube.com/playlist?list=PLe2m5smzj5hcupT6r8LmPNJRPde171U87
 
 *Note: This is not an official Source Code Academia Repository. This repository consists of my flashcards and notes that are meant to be shared with other people interested in learning Arabic. The only official material provided is as follows:*
 
