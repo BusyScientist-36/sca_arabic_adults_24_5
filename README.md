@@ -8,7 +8,6 @@ The video archive of the online lectures is linked below:
 
 Playlist 1:
 YouTube: https://www.youtube.com/playlist?list=PLs3DT4U9Cq0MhzkaIUtDl9-wN9rGSyDbg
-Oddysee: [coming_soon]
 
 Playlist 2:
 YouTube: https://www.youtube.com/playlist?list=PLe2m5smzj5hcupT6r8LmPNJRPde171U87
