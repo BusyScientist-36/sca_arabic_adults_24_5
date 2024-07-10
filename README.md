@@ -12,6 +12,6 @@ YouTube: https://www.youtube.com/playlist?list=PLs3DT4U9Cq0MhzkaIUtDl9-wN9rGSyDb
 Playlist 2:
 YouTube: https://www.youtube.com/playlist?list=PLe2m5smzj5hcupT6r8LmPNJRPde171U87
 
-*Note: This is not an official Source Code Academia Repository. This repository consists of my flashcards and notes that are meant to be shared with other people interested in learning Arabic. The only official material provided is as follows:*
+*Note: This is not an official Source Code Academia Repository. This repository consists of my flashcards and notes that are meant to be shared with other people interested in learning Arabic. The only official material provided is in the "Official_Resourses.md" file.*
 
 
